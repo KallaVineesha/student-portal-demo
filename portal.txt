@@ -1,0 +1,38 @@
+Login & Registration (with validations)
+
+Student can register using ID, name, email, password
+
+Login system with basic session management (if backend is used)
+
+Dashboard (after login)
+
+Welcome message with student’s name and photo
+
+Short overview: Branch, Year, Roll number
+
+Profile Section
+
+View & edit personal details: name, email, phone, address
+
+Subjects & Grades
+
+Table displaying subject names and marks/grades
+
+GPA calculation (simple JS logic or from database)
+
+Attendance
+
+Show monthly attendance percentage
+
+Pie chart (optional: use Chart.js)
+
+Notices / Announcements
+
+Display college notices or events fetched from database or static list
+
+Download Section
+
+PDFs for timetable, syllabus, assignments (static for now)
+
+Logout Button
+
